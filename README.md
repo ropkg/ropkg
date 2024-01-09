@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D844311941&psig=AOvVaw3DQpxd6NL4uolsq7WTKQV9&ust=1704875933339000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi98fbzz4MDFQAAAAAdAAAAABAI)
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dg8b54p-18e32f29-9558-4fb9-83af-de94e437053a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGc4YjU0cC0xOGUzMmYyOS05NTU4LTRmYjktODNhZi1kZTk0ZTQzNzA1M2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HXuzj0iAZKGgmBkfx_dU5uMbiia8p5hubL59hh7WhOc)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
