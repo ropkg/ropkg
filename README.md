@@ -1,5 +1,4 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dg8b54p-18e32f29-9558-4fb9-83af-de94e437053a.gif)
-
+![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">🛡️ IT Support | Cybersecurity Enthusiast | AWS & Automation Learner</h3>
 
