@@ -1,4 +1,5 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dg8b54p-18e32f29-9558-4fb9-83af-de94e437053a.gif)
+![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
+
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">🛡️ IT Support | Cybersecurity Enthusiast | AWS & Automation Learner</h3>
 
@@ -20,8 +21,8 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/rohit-muthukumarasamy-4916a0397" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/rohit-muthukumarasamy-4916a0397" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
 </a>
 </p>
 
@@ -33,6 +34,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+<img src="https://img.icons8.com/color/48/powershell.png" width="40"/>
+<img src="https://img.icons8.com/fluency/48/cloud.png" width="40"/>
 </p>
 
 ---
